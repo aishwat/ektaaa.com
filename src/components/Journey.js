@@ -15,7 +15,6 @@ import Chip from "@material-ui/core/Chip";
 
 import SubHeader from "./SubHeader";
 import Contact from "./Contact";
-import Icon from "@material-ui/core/Icon";
 
 const useStyles = makeStyles((theme) => ({
     imageIcon: {
