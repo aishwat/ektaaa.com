@@ -57,7 +57,7 @@ const Header = () => {
     const [activeMenuItem, setActiveMenuItem] = useState(0);
 
     useEffect(() => {
-        const subRoutes = ['home', 'journey', 'ideas', 'pics', 'books', 'writings']
+        const subRoutes = ['home', 'journey', 'pics', 'cv']
         const subRoute = `${location.pathname.substring(1)}`;
         if (subRoutes.includes(subRoute)) {
             setActiveMenuItem(subRoutes.indexOf(subRoute))
@@ -109,6 +109,11 @@ const Header = () => {
             name: "pics",
             label: "Pics",
             icon: "fas fa-image",
+        },
+        {
+            name: "cv",
+            label: "CV",
+            icon: "fas fa-file-pdf",
         },
         // {
         //     name: "books",
