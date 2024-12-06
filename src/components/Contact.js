@@ -21,12 +21,6 @@ const contacts = [
     icon: "fab fa-linkedin-in",
     url: "https://www.linkedin.com/in/aishwat",
   },
-  // {
-  //   id: "Twitter",
-  //   color: "rgba(29,161,242)",
-  //   icon: "fab fa-twitter",
-  //   url: "https://twitter.com/execamit",
-  // },
   {
     id: "Facebook",
     color: "rgba(66, 103, 178)",
@@ -34,13 +28,19 @@ const contacts = [
     url: "https://www.facebook.com/aishwat.singh",
   },
   {
-    id: "Medium",
-    color: "rgba(100, 100, 100)",
-    icon: "fab fa-medium-m",
-    url: "https://medium.com/@aishwat",
+    id: "Reads",
+    color: "rgba(117,66,14)",
+    icon: "fab fa-goodreads",
+    url: "https://www.goodreads.com/aishwat",
   },
   {
-    id: "Maps",
+    id: "Leetcode",
+    color: "rgba(51, 51, 51)",
+    icon: "fas fa-terminal",
+    url: "https://leetcode.com/u/aishwat/",
+  },
+  {
+    id: "Map",
     color: "#7B3AE5",
     icon: "fas fa-map-marked",
     url: "https://maps.app.goo.gl/XvpHgRHTJHuAW1hF8",
