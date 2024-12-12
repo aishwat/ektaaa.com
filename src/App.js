@@ -1,8 +1,8 @@
 import "./App.css";
 import Header from "./components/Header";
 import Home from "./components/Home";
-import Journey from "./components/Journey";
-import Pics from "./components/Pics";
+// import Journey from "./components/Journey";
+// import Pics from "./components/Pics";
 import CV from "./components/CV";
 
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
