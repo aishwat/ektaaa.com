@@ -65,19 +65,32 @@ const Intro = () => {
             <Grid item xs={12} sm={6} className={classes.border}>
                 <div className={classes.profile_text}>
                     <Typography variant="h5" component="h2" color="primary">
-                        Welcome to Aishwat's home page
+                        Welcome to Ekta's home page
                     </Typography>
                     <Typography
                         className={classes.title}
                         color="secondary"
                         gutterBottom
                     >
-                        Lead Backend at Tesco Technology
+                        Manager - Strategic Research at Capgemini
                     </Typography>
                     <Typography gutterBottom>
-                        I've been a Lead Engineer in software for 10 years, teaming up with amazing people to build
-                        projects that help businesses grow. I’m passionate about technology and love seeing our work
-                        make a real difference—it's what keeps me excited every day.
+                        Consultant with close to 12 years of experience, with demonstrated history of working in the
+                        Healthcare, Life Sciences Research, Pharma-IT and Market research industry. Skilled in
+                        Consulting and Analytics covering a broad set of domains such as Primary and Secondary Market
+                        Research, Insights, Patient Analytics, Competitive Intelligence, Client servicing and reporting,
+                        End-to-end
+                        servicing of primary market research projects, Project management, Market research, Budget
+                        management, Team management, Operations management, Customer insight, Microsoft office and
+                        PowerPoint.
+                        <br></br>
+                        <br></br>
+                        I have managed and executed Quantitative and Qualitative Research projects across USA, Canada,
+                        APAC, EMEA region. Majorly responsible for client and vendor communication, team building, team
+                        management/training and perform internal process updates.
+                    </Typography>
+                    <Typography gutterBottom style={{ marginTop: '16px', color: 'gray'  }}>
+                        Skills: Project management, People management, Team management and training, Process development and management, Vendor management, Client Servicing/communication, Project requirement analysis, Process improvements, Positive proactive approach, Strong work ethics.
                     </Typography>
                 </div>
             </Grid>

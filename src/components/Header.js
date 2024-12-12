@@ -100,16 +100,16 @@ const Header = () => {
             label: "Home",
             icon: "fas fa-user",
         },
-        {
-            name: "journey",
-            label: "Journey",
-            icon: "fas fa-seedling",
-        },
-        {
-            name: "pics",
-            label: "Pics",
-            icon: "fas fa-image",
-        },
+        // {
+        //     name: "journey",
+        //     label: "Journey",
+        //     icon: "fas fa-seedling",
+        // },
+        // {
+        //     name: "pics",
+        //     label: "Pics",
+        //     icon: "fas fa-image",
+        // },
         {
             name: "cv",
             label: "CV",
@@ -163,7 +163,7 @@ const Header = () => {
                 <Toolbar>
                     <MenuItem onClick={redirectHandler("/")}>
                         <Typography variant="h6" className={classes.title}>
-                            Aishwat
+                            Ekta
                         </Typography>
                     </MenuItem>
                     {/* <Button color="inherit">Login</Button> */}

@@ -19,26 +19,26 @@ const contacts = [
     id: "LinkedIn",
     color: "rgba(40,103,178)",
     icon: "fab fa-linkedin-in",
-    url: "https://www.linkedin.com/in/aishwat",
+    url: "https://www.linkedin.com/in/anthonyekta/",
   },
-  {
-    id: "Facebook",
-    color: "rgba(66, 103, 178)",
-    icon: "fab fa-facebook-f",
-    url: "https://www.facebook.com/aishwat.singh",
-  },
-  {
-    id: "Reads",
-    color: "rgba(117,66,14)",
-    icon: "fab fa-goodreads",
-    url: "https://www.goodreads.com/aishwat",
-  },
-  {
-    id: "Leetcode",
-    color: "rgba(51, 51, 51)",
-    icon: "fas fa-terminal",
-    url: "https://leetcode.com/u/aishwat/",
-  },
+  // {
+  //   id: "Facebook",
+  //   color: "rgba(66, 103, 178)",
+  //   icon: "fab fa-facebook-f",
+  //   url: "https://www.facebook.com/aishwat.singh",
+  // },
+  // {
+  //   id: "Reads",
+  //   color: "rgba(117,66,14)",
+  //   icon: "fab fa-goodreads",
+  //   url: "https://www.goodreads.com/aishwat",
+  // },
+  // {
+  //   id: "Leetcode",
+  //   color: "rgba(51, 51, 51)",
+  //   icon: "fas fa-terminal",
+  //   url: "https://leetcode.com/u/aishwat/",
+  // },
   {
     id: "Map",
     color: "#7B3AE5",
@@ -46,10 +46,10 @@ const contacts = [
     url: "https://maps.app.goo.gl/XvpHgRHTJHuAW1hF8",
   },
   {
-    id: "aishwat.singh@gmail.com",
+    id: "nisthaaa@gmail.com",
     color: "#bc00f5",
     icon: "fas fa-envelope",
-    url: "mailto:aishwat.singh@gmail.com",
+    url: "mailto:nisthaaa@gmail.com",
   },
 ];
 

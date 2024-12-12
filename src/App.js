@@ -24,12 +24,12 @@ function App() {
                 <Header/>
                 <div className={classes.root}>
                     <Switch>
-                        <Route path="/journey">
-                            <Journey/>
-                        </Route>
-                        <Route path="/pics">
-                            <Pics/>
-                        </Route>
+                        {/*<Route path="/journey">*/}
+                        {/*    <Journey/>*/}
+                        {/*</Route>*/}
+                        {/*<Route path="/pics">*/}
+                        {/*    <Pics/>*/}
+                        {/*</Route>*/}
                         <Route path="/cv">
                             <CV/>
                         </Route>

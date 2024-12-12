@@ -6,7 +6,7 @@ const CV = () => {
       <Fragment>
           <div style={{ width: "100vw", height: "100vh", margin: 0, padding: 0 }}>
               <object
-                  data="/pdfs/AishwatCV.pdf"
+                  data="/pdfs/EktaCV.pdf"
                   type="application/pdf"
                   style={{
                       width: "100%",
@@ -17,7 +17,7 @@ const CV = () => {
                   <p>
                       Your browser does not support PDFs. Please download the PDF to view
                       it:{" "}
-                      <a href="/pdfs/AishwatCV.pdf" target="_blank" rel="noopener noreferrer">
+                      <a href="/pdfs/EktaCV.pdf" target="_blank" rel="noopener noreferrer">
                           Download PDF
                       </a>
                   </p>
